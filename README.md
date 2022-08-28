@@ -1,1 +1,1 @@
-# stable_diffusion
+# stable-diffusion
